@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f62ae40a13c342b2fda98bd9101ab050",
+    "revision": "c1402795c5df3dadb6daee167613dee8",
     "url": "/spring-onion/index.html"
   },
   {
-    "revision": "62916eb663fffe0e1abc",
-    "url": "/spring-onion/static/css/main.0fdab454.chunk.css"
+    "revision": "a5fd35fa6ed34b64f4ed",
+    "url": "/spring-onion/static/css/main.079c2ebf.chunk.css"
   },
   {
     "revision": "f004028bfd0cc3c4fa9e",
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring-onion/static/js/2.408aa9ba.chunk.js.LICENSE"
   },
   {
-    "revision": "62916eb663fffe0e1abc",
-    "url": "/spring-onion/static/js/main.2235bb91.chunk.js"
+    "revision": "a5fd35fa6ed34b64f4ed",
+    "url": "/spring-onion/static/js/main.16950e22.chunk.js"
   },
   {
     "revision": "9afe3983ba01af8a4a66",
     "url": "/spring-onion/static/js/runtime-main.a9868610.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/spring-onion/static/media/logo.5d5d9eef.svg"
   }
 ]);
