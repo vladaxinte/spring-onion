@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "397a56a4868ddb3f507d0b3d57d653cf",
+    "revision": "f62ae40a13c342b2fda98bd9101ab050",
     "url": "/spring-onion/index.html"
   },
   {
-    "revision": "b6b35ab371627ee5518f",
-    "url": "/spring-onion/static/css/main.0a19af2a.chunk.css"
+    "revision": "62916eb663fffe0e1abc",
+    "url": "/spring-onion/static/css/main.0fdab454.chunk.css"
   },
   {
     "revision": "f004028bfd0cc3c4fa9e",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spring-onion/static/js/2.408aa9ba.chunk.js.LICENSE"
   },
   {
-    "revision": "b6b35ab371627ee5518f",
+    "revision": "62916eb663fffe0e1abc",
     "url": "/spring-onion/static/js/main.2235bb91.chunk.js"
   },
   {
