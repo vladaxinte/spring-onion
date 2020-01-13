@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/spring-onion/static/css/main.d1b05096.chunk.css",
-    "main.js": "/spring-onion/static/js/main.77c81e95.chunk.js",
-    "main.js.map": "/spring-onion/static/js/main.77c81e95.chunk.js.map",
+    "main.css": "/spring-onion/static/css/main.d22054fc.chunk.css",
+    "main.js": "/spring-onion/static/js/main.b3c735b8.chunk.js",
+    "main.js.map": "/spring-onion/static/js/main.b3c735b8.chunk.js.map",
     "runtime-main.js": "/spring-onion/static/js/runtime-main.a9868610.js",
     "runtime-main.js.map": "/spring-onion/static/js/runtime-main.a9868610.js.map",
     "static/js/2.f3622a69.chunk.js": "/spring-onion/static/js/2.f3622a69.chunk.js",
     "static/js/2.f3622a69.chunk.js.map": "/spring-onion/static/js/2.f3622a69.chunk.js.map",
     "index.html": "/spring-onion/index.html",
-    "precache-manifest.6aff5472201108da451c93cf9f9c903d.js": "/spring-onion/precache-manifest.6aff5472201108da451c93cf9f9c903d.js",
+    "precache-manifest.5912f4e0876d0a084030169eeba6004a.js": "/spring-onion/precache-manifest.5912f4e0876d0a084030169eeba6004a.js",
     "service-worker.js": "/spring-onion/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/spring-onion/static/css/main.d1b05096.chunk.css.map",
+    "static/css/main.d22054fc.chunk.css.map": "/spring-onion/static/css/main.d22054fc.chunk.css.map",
     "static/js/2.f3622a69.chunk.js.LICENSE": "/spring-onion/static/js/2.f3622a69.chunk.js.LICENSE",
     "static/media/logo.svg": "/spring-onion/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.a9868610.js",
     "static/js/2.f3622a69.chunk.js",
-    "static/css/main.d1b05096.chunk.css",
-    "static/js/main.77c81e95.chunk.js"
+    "static/css/main.d22054fc.chunk.css",
+    "static/js/main.b3c735b8.chunk.js"
   ]
 }
