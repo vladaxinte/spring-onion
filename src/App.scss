@@ -1,5 +1,64 @@
-@import '../public/elements/colors';
+// @import '../public/elements/colors';
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600,700&display=swap');
 
 body{
-  background: $gray-100 !important;
+  background: #EFF3F5;
+}
+
+.header{
+  background:#fff;
+  padding: 10px;
+  box-sizing:border-box;
+  .app-icon{
+    height:40px;
+    display:flex;
+    svg{
+      width:40px;
+      height:40px;
+    }
+    h1{
+      font-size: 18px;
+      font-weight: 400;
+      font-family: "Open Sans";
+      line-height: 40px;
+      display: flex;
+      color: #0F151A;
+      margin: 0px 0px 0px 10px;
+    }
+  }
+}
+
+.search-field{
+  width:100%;
+  padding:10px;
+  box-sizing: border-box;
+  position:relative;
+  svg{
+    position:absolute;
+    top:20px;
+    left:20px;
+    transition:.15s all ease-in-out;
+    &.color{
+      transition:.15s all ease-in-out;
+    }
+  }
+  .search{
+    border-radius:5px;
+    border:solid 1px #D8DFE8;
+    font-size:14px;
+    height:40px;
+    width:100%;
+    box-sizing: border-box;
+    padding:10px 10px 10px 40px;
+    transition:.15s all ease-in-out;
+    &:focus{
+      border:solid 1px #00B0FF;
+      outline:none;
+    }
+    &::-webkit-input-placeholder{
+      font-family: "Open Sans";
+      color:#95A7BC;
+      font-size:14px;
+    }
+  }
 }

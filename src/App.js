@@ -1,12 +1,13 @@
 import React from 'react';
-import './App.scss';
+import "./App.scss";
+import Header from "./components/Header";
+import Search from "./components/Search";
 
-function App() {
-  return (
-    <div className="App">
-      asdf
-    </div>
-  );
+const App = () => {
+  return <>
+  <Header/>
+  <Search/>
+  </>
 }
 
 export default App;
